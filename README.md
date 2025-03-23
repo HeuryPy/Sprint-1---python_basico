@@ -1,7 +1,7 @@
 # PYTHON BÁSICO
 
 **Apresentação do Projeto:**<br>
-Este Projeto foi desenvolvido como requisito para aprovação na Sprint 1 do Bootcamp da Tripleten. <br><br>
+Este Projeto foi desenvolvido como requisito para aprovação na Sprint 1 do Bootcamp de Análise de Dados da Tripleten. <br><br>
 🧩O Projeto abordou os seguintes conhecimentos:
 * Tipos de variáveis
 * Métodos format(), uper(), lower(), replace()
