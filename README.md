@@ -13,7 +13,7 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 1 do Boo
 e prepará-los para análises futuras. Assim a empresa poderia entender melhor o comportamento dos clientes para a tomada de decisões baseadas em dados
 para melhorar experiência online deles.
 
-**Sugestões para o futuro:**
+**Sugestões para o futuro:**<br>
 Utilizar menos linhas de códigos para obter os resultado.
 
 **Arquivos do Projeto:**
